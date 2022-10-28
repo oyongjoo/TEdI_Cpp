@@ -1,2 +1,2 @@
 # TEdI_Cpp
-TEdI 수업 준비
+TEdI C++ 수업 준비
